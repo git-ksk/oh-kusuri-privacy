@@ -2,7 +2,7 @@
 
 **Last Updated: June 5, 2026**
 
-This Privacy Policy explains how "Oh!Kusuri" ("the App"), developed by us ("we", "us", or "our"), handles your information.
+This Privacy Policy explains how "Oh!MyMeds" ("the App"), developed by us ("we", "us", or "our"), handles your information.
 
 ---
 
