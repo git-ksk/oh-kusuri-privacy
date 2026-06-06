@@ -4,4 +4,4 @@
 
 ## 公開URL
 - **日本語版**: [https://git-ksk.github.io/oh-kusuri-privacy/](https://git-ksk.github.io/oh-kusuri-privacy/)
-- **英語版**: [https://git-ksk.github.io/oh-kusuri-privacy/en.html](https://git-ksk.github.io/oh-kusuri-privacy/en.html)
+- **英語版**: [https://git-ksk.github.io/oh-kusuri-privacy/en/](https://git-ksk.github.io/oh-kusuri-privacy/en/)
